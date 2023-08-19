@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **startups**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing](https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing)
+- 👨‍💻 Portfolio for my projects: [https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing](https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing)
 
 - 📫 How to reach me **arasheed@uwaterloo.ca**
 
