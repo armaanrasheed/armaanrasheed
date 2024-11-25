@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armaan Rasheed</h1>
 <h3 align="center">A software engineer currently studying @ University of Waterloo</h3>
 
-- 🔭 I’m currently working on **exciting LLM models**
-
-- 🌱 I’m currently learning **ML and Deep Learning**
-
-- 👯 I’m looking to collaborate on **SaaS ideas**
-
-- 🤝 I’m looking for help with **startups**
-
 - 👨‍💻 Resume + Portfolio Link: https://docs.google.com/document/d/1byjL3xm1GCBku0j1ietSl24aeIV8ABQFRYmSMXC3QaM/edit?usp=sharing
 
 - 📫 How to reach me **arasheed@uwaterloo.ca**
