@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **startups**
 
-- 👨‍💻 Resume + Portfolio Link: [https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing](https://drive.google.com/file/d/18-lx5n6DVuGrxe67WfobUz-wichSV-Dc/view?usp=sharing](https://docs.google.com/document/d/1byjL3xm1GCBku0j1ietSl24aeIV8ABQFRYmSMXC3QaM/edit?usp=sharing))
+- 👨‍💻 Resume + Portfolio Link: https://docs.google.com/document/d/1byjL3xm1GCBku0j1ietSl24aeIV8ABQFRYmSMXC3QaM/edit?usp=sharing
 
 - 📫 How to reach me **arasheed@uwaterloo.ca**
 
